@@ -33,24 +33,28 @@ body {
    
     
     #top-left {
+        border: 1px solid;
         position: absolute;
         top: 0;
         left: 0;
     }
     
     #top-right {
+        border: 1px solid;
         position: absolute;
         top: 0;
         right: 0;
     }
     
     #bottom-left {
+        border: 1px solid;
         position: absolute;
         bottom: 0;
         left: 0;
     }
     
     #bottom-right {
+        border: 1px solid;
         position: absolute;
         bottom: 0;
         right: 0;
