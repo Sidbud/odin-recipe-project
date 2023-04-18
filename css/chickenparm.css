@@ -27,8 +27,13 @@ img {
 }
 
 .steps {
-    max-width: 600px;
+    max-width: 500px;
   }
+
+
+.description{
+    max-width: 500px;
+}
 
 h2 {
     display: flex;
