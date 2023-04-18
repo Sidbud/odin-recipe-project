@@ -1,0 +1,17 @@
+body {
+    background-color: sandybrown;
+
+}
+
+.center {
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    justify-content: center;
+    align-items: center;
+}
